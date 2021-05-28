@@ -5,8 +5,8 @@
             "path": "Serial Arduinio Uno Interface"
         },
         {
-            "name": "Extra Manikin Interface",
-            "path": "..\\..\\Documents\\PlatformIO\\Projects\\Extra Manikin Interface"
+            "name": "Manikin One Lung",
+            "path": "Manikin One Lung"
         }
     ]
 }
